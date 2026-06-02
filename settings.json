@@ -8,7 +8,7 @@
   "server": {
     "ip": "Eclipsesmp2027.aternos.me",
     "port": 20337,
-    "version": "",
+    "version": "26.1.2",
     "try-creative": false
   },
   "position": {
@@ -73,7 +73,7 @@
     "place-night": false
   },
   "discord": {
-    "enabled": false,
+    "enabled": true,
     "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
     "events": {
       "connect": true,
